@@ -1,0 +1,9 @@
+{
+  "name": "k6-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/k6": "^0.42.0"
+  }
+}
