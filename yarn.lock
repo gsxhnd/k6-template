@@ -6,8 +6,3 @@
   version "0.42.0"
   resolved "https://registry.yarnpkg.com/@types/k6/-/k6-0.42.0.tgz#4e670579f8becd2032838d8760dd90914093d60f"
   integrity sha512-btIVh1X3aC3iiYHL3J6vnWx65tFhTZyA6c3RjsizlVRAk80a83mL9ybwClUpxo/gl8C7nii1NGMGmmN7yH5doQ==
-
-k6@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/k6/-/k6-0.0.0.tgz#8c923200be0a68c578e8f5a32be96b1d8065cc3b"
-  integrity sha512-GAQSWayS2+LjbH5bkRi+pMPYyP1JSp7o+4j58ANZ762N/RH/SdlAT3CHHztnn8s/xgg8kYNM24Gd2IPo9b5W+g==
